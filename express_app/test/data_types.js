@@ -63,4 +63,7 @@ describe('Data types', function () {
         assert.equal(false, [] instanceof Bar);
         assert.equal(true, [] instanceof Object);
     });
+    it('equality', function () {
+        
+    });
 });
